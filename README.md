@@ -57,6 +57,3 @@ Subject: Application for lead python developer
 
 ```
 
-## Modifying Input
-
-If you don't want to connect to email, the script will fall back to example data. You can modify the example emails in the `main()` function of `email_filter.py`. 
