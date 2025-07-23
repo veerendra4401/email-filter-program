@@ -47,18 +47,14 @@ Connecting to email server...
 Connected successfully!
 Fetching emails...
 
-Found 2 emails containing 'Lead':
+Found 1 emails containing 'Lead':
 ==================================================
-From: website@company.com
-Date: Thu, 15 Mar 2024 09:30:21 -0700
-Subject: New Lead from Contact Form
+From: Veerendra Thogiti <thogitiveerendra7@gmail.com>
+Date: Wed, 23 Jul 2025 18:25:37 +0530
+Subject: Application for lead python developer
 ==================================================
 
-==================================================
-From: sales@company.com
-Date: Thu, 15 Mar 2024 11:45:33 -0700
-Subject: Sales Lead: Potential Client Meeting
-==================================================
+
 ```
 
 ## Modifying Input
