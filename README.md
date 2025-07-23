@@ -33,7 +33,7 @@ This Python script can filter emails containing the word "Lead" (case-insensitiv
 1. Enable 2-Step Verification in your Google Account
 2. Generate an App Password:
    - Go to Google Account settings
-   - Search for "App Passwords"  ## Password Must Be Spacefree
+   - Search for "App Passwords"  **Password Must Be Spacefree**
    - Generate a new app password
    - Use this password in the script instead of your regular password
 
